@@ -1,0 +1,5 @@
+/clinical_data
+/tuning_results
+*.pdf
+*.asv
+hidden_*
